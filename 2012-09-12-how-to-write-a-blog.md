@@ -1,5 +1,6 @@
-title: Your awesome title
-author: GitHub User
+theme: minima
+title: 2012-09-12-how-to-write-a-blog.md
+author: Daniel LIn
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
